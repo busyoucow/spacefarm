@@ -1,5 +1,5 @@
-<img alt="picture 8" src="images/bbd98ab5c8be08efc42e802c79cdc403f1d61096899bb3528db7f9935e170d17.png" width="100%" />  
 
+<img alt="picture 10" src="images/96f55ec60b3b4d0e7e4404a2c6d20aa2d54dd15c3e83a147f350385419b3c567.png" width="200" />  
 
 <div class="page"/>
 
@@ -14,9 +14,11 @@
 
 <div class="page"/>
 
-## first
+## 最初に
 地球の赤道半径 $6380km = 6.38\times10^{6}m$
 植物工場を宇宙で稼働させる時の必要用件
+
+<div class="page"/>
 
 ## これがメタルネットバルーンプラント（MNBP)だ！
 
@@ -26,6 +28,7 @@
 
 <img alt="picture 2" src="images/25f4535a3c55a2c88ccf4616957072468aabb963c64bad08e63940ae5e901ba4.jpg" width="200" />  
 
+<div class="page"/>
 
 ## 内部に設置する栽培カートリッジ
 
@@ -39,6 +42,8 @@
 
 <img alt="picture 3" src="images/a2afcb1f66f05b4dd54cdc6a2e807e91f5db20e3244f4ba7c29af2ee8c8a179d.png" width="200" />  
 
+<div class="page"/>
+
 ## 循環表層水防護膜「武者鎧」
 
 更にネットとバルーンの間に水タンクを兼ねた循環式水バルーン層「武者鎧」を31400分割にて配置する。
@@ -47,13 +52,18 @@
 破壊されたバルーンは内部含めリサイクル処理に回す。
 ネットと水バルーンは破損部を交換補修し再使用。
 <img alt="picture 4" src="images/e9805415527ece2a4c6eafb91cdaa828f8bad115a1d9a04457730ef9fde03c50.png" width="200" />  
+
 <div class="page"/>
 
 ## p2
 <img alt="picture 5" src="images/bec4a49b21680424191b44343d5dc2b51dbdc2c4e587a1491d8bf04fccae81e3.png" width="200" />  
 
+<div class="page"/>
+
 ## p3
 <img alt="picture 6" src="images/1227143973bae0a4cb6b1b913c65900e5d1b44369bcd87ed0f4b541b1631ea0e.png" width="200" />  
+
+<div class="page"/>
 
 ## p4
 <img alt="picture 7" src="images/14106f341f1103b781ec50dd9ce22f30b4d5fa8e8b1c8b8cc85dd9a66f2a1681.png" width="200" />  
@@ -80,6 +90,8 @@
 <br>
 <br>
 <img alt="picture 9" src="images/908cca4d8e950e2a5e774a93b1ebe670816c83ce5060090635a2228288481809.png" width="200" />  
+
+<div class="page"/>
 
 <br>
 <br>
