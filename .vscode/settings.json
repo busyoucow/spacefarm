@@ -1,4 +1,5 @@
 {
     "markdown-image.base.codeType": "HTML",
-    "markdown-image.base.imageWidth": 200
+    "markdown-image.base.imageWidth": 200,
+    "markdown-pdf.headerTemplate": ""
 }

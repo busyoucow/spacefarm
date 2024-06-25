@@ -20,6 +20,14 @@
 - [宇宙船に搭載モジュール化「ギャップコーンモジュール(GCP)」](#宇宙船に搭載モジュール化ギャップコーンモジュールgcp)
   - [ギャップコーンモジュール(GCM)](#ギャップコーンモジュールgcm)
 - [GCP宇宙船装着例](#gcp宇宙船装着例)
+- [宇宙農園メニューの試作](#宇宙農園メニューの試作)
+  - [用意する材料](#用意する材料)
+  - [作り方](#作り方)
+  - [キノコの処理](#キノコの処理)
+  - [素材の組み合わせ](#素材の組み合わせ)
+  - [混ぜて寝かせ](#混ぜて寝かせ)
+  - [加熱して完成](#加熱して完成)
+- [味と今後の課題](#味と今後の課題)
 - [あとがき](#あとがき)
 
 
@@ -34,7 +42,7 @@
 
 また、この技術は地球上でも気候変動や災害・シェルター退避など過酷な環境にて食糧を自給できる手段を広げる事にも応用できるため、決して無駄にはならない。
 
-<div class="page"/>
+
 
 ## 農業プラントの必要性
 化学的合成で作られる栄養剤は
@@ -60,7 +68,7 @@
 
 高い志を持ち訓練をされた自衛隊でも缶飯といった携行食が続くと嫌になる(それでも海外のレーションよりはましだそうだ)という元隊員の証言も非公式ながらある。食の問題はそれだけ人間のメンタルに深刻な影響を与えるのだ。
 
-<div class="page"/>
+
 
 ## 農業プラントにおける諸問題
 
@@ -74,7 +82,7 @@
 を提案したい。
 農業プラントには人間の居住区ほど強固にデブリ等から守る優先度が低いと考えるためである。
 
-<div class="page"/>
+
 
 ## これがメタルネットバルーンプラント（MNBP)だ！
 
@@ -85,7 +93,7 @@
 
 <img alt="picture 2" src="images/25f4535a3c55a2c88ccf4616957072468aabb963c64bad08e63940ae5e901ba4.jpg" width="500" />  
 
-<div class="page"/>
+
 
 ### メタルネットバルーンプラント 仕様
 直径 10m
@@ -111,7 +119,7 @@
 314kg/50日(エダマメ仕様)→ 6kg/日
 314kg/180日(ムカゴ仕様)→ 1.5kg/日
 
-<div class="page"/>
+
 
 ## 内部に設置する栽培カートリッジ
 
@@ -124,7 +132,7 @@
 <img alt="picture 11" src="images/cd6eb9070dcded84ea882e8859aca8ee82a02c437e66750f93cdc8c4a22eaab1.png" width="500" />  
 
 
-<div class="page"/>
+
 
 ## デブリについて
 ### デブリ速度は10km/s
@@ -144,7 +152,7 @@ JAXAのISSモジュール「きぼう」運用データ
 地球地表の温室もひょうの多い地域ではガラス製よりビニールハウスの方が再生容易
 内部の栽培カートリッジも再生して使用
 
-<div class="page"/>
+
 
 ## 循環表層水防護膜「武者鎧」
 
@@ -161,7 +169,7 @@ JAXAのISSモジュール「きぼう」運用データ
 
 <img alt="picture 4" src="images/e9805415527ece2a4c6eafb91cdaa828f8bad115a1d9a04457730ef9fde03c50.png" width="500" />  
 
-<div class="page"/>
+
 
 ## 機動防護壁「コーンハスク」
 
@@ -172,7 +180,7 @@ JAXAのISSモジュール「きぼう」運用データ
 
 <img alt="picture 5" src="images/bec4a49b21680424191b44343d5dc2b51dbdc2c4e587a1491d8bf04fccae81e3.png" width="500" />  
 
-<div class="page"/>
+
 
 ## 宇宙船に搭載モジュール化「ギャップコーンモジュール(GCP)」
 
@@ -186,7 +194,7 @@ GCM だと 50基
 
 <img alt="picture 6" src="images/1227143973bae0a4cb6b1b913c65900e5d1b44369bcd87ed0f4b541b1631ea0e.png" width="500" />  
 
-<div class="page"/>
+
 
 ## GCP宇宙船装着例
 
@@ -200,7 +208,44 @@ GCM だと 50基
 
 <img alt="picture 7" src="images/14106f341f1103b781ec50dd9ce22f30b4d5fa8e8b1c8b8cc85dd9a66f2a1681.png" width="500" />  
 
-<div class="page"/>
+## 宇宙農園メニューの試作
+
+### 用意する材料
+<img alt="picture 12" src="images/4b25864c5d16f28d9f2272974c22b4a2aa3c0f6830997754682f91b006fc52a9.jpg" width="200" />  
+
+### 作り方
+<img alt="picture 13" src="images/209c0021586ab998f2205e3f9fa2f73d66bae0802cd76d799704ff499ffbec0b.jpg" width="200" />  
+<img alt="picture 14" src="images/d85c41f8ff5ab0d5139b424432e0f95509ed1c811e88b510d3f96f8b7c867dd2.jpg" width="200" />  
+<img alt="picture 15" src="images/acccee540119d961a8af00bb5c48ac2771453cb9c3d91fe5a5e2be7dce3f6f86.jpg" width="200" />  
+
+### キノコの処理
+<img alt="picture 16" src="images/680aa57876ae365149e5ef293cec389e99f31dfc6c9444bc91301c4ac4ed93b2.jpg" width="200" />  
+<img alt="picture 17" src="images/b75f9cc15a4115e12c37c06299db041287f7e3d639dcbd56e4e6607bba97ce59.jpg" width="200" />  
+<img alt="picture 18" src="images/518366bf99301435a35ce841d797f39f7f1dad3731b7a87a388ebe44fdf452a5.jpg" width="200" />  
+
+### 素材の組み合わせ
+<img alt="picture 19" src="images/561f3f905c8bb4b47c47cff0250d1d8e912a473cc4756d595ef278408cb015bf.jpg" width="200" />  
+<img alt="picture 20" src="images/1c09a6a36d6f5a213f6e72be1fe527b7b4492651003e2332a9c37a31e13c6000.jpg" width="200" />  
+<img alt="picture 21" src="images/8e0e29c237afb66457cf60c32c301ca519976b9581a9eeb871671237b08e34e2.jpg" width="200" />  
+
+### 混ぜて寝かせ
+<img alt="picture 22" src="images/160e6af083f6e1d5d742e781f7fc5fcb5192a9c2356a76e21543c25004d635ad.jpg" width="200" />  
+<img alt="picture 23" src="images/542519f5e6000a49a892a8c71880c95412bd1978db238f071961a42701db75bf.jpg" width="200" />  
+
+### 加熱して完成
+<img alt="picture 24" src="images/4e0c99af5638e8a936958fc48d57dd4414077530e0314f3e73887e77455f273f.jpg" width="200" />  
+<img alt="picture 25" src="images/27339308b17b91b79a60a7d2b0dd85026aa2863bdd72977f66280d8a7c46eb97.jpg" width="200" />  
+<img alt="picture 26" src="images/0e9726287db9e8ab7c2d2cb8c63348781c2a932494d1b0261cd8f38f7d5ebe31.jpg" width="200" />  
+
+## 味と今後の課題
+ちゃんと火が通っているので安全安心、お腹にもたまるように思えた。しかし…
+よく言えば「素材の風味が生きている」正直に言えば「味が単調で薄い！」と感じる。
+写真に映っている醤油が大いに助けとなった。
+意識高い系の人ならばヘルシー！で良いと感じるかもしれないが、中年男性には物足りない味付けになったと感じる。しかし食感はいい感じであった。うまみもある。
+あと、枝豆はスーパーの常温品なので既に塩ゆでしてあります…生豆を使う場合はその辺りも考慮する必要がある。
+次回はオーブンでホイル焼きも検討したい。
+
+
 
 ## あとがき
 
