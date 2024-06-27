@@ -259,13 +259,9 @@ GCM だと 50基
 むかごは季節ではなく入手できなかったため、冷凍山芋パックを使用。
 
 ### キノコの処理
-<img alt="picture 16" src="images/680aa57876ae365149e5ef293cec389e99f31dfc6c9444bc91301c4ac4ed93b2.jpg" width="200" />  
 
+<img alt="picture 28" src="images/c440d85d350b882421f5a01759ccb74b35e881238a95c07eed12c874055dcaba.jpg" width="400" />  
 
-<img alt="picture 17" src="images/b75f9cc15a4115e12c37c06299db041287f7e3d639dcbd56e4e6607bba97ce59.jpg" width="200" />  
-
-
-<img alt="picture 18" src="images/518366bf99301435a35ce841d797f39f7f1dad3731b7a87a388ebe44fdf452a5.jpg" width="200" />  
 
 パックのブナシメジを洗浄して切っていく。
 石突の部分は除去。
@@ -273,13 +269,9 @@ GCM だと 50基
 
 
 ### 素材の組み合わせ
-<img alt="picture 19" src="images/561f3f905c8bb4b47c47cff0250d1d8e912a473cc4756d595ef278408cb015bf.jpg" width="200" />  
 
+<img alt="picture 29" src="images/77e79e481348271795337d9e2503e02ab98f466d0ac147beed86690e8c37c7a2.jpg" width="400" />  
 
-<img alt="picture 20" src="images/1c09a6a36d6f5a213f6e72be1fe527b7b4492651003e2332a9c37a31e13c6000.jpg" width="200" />  
-
-
-<img alt="picture 21" src="images/8e0e29c237afb66457cf60c32c301ca519976b9581a9eeb871671237b08e34e2.jpg" width="200" />  
 
 鞘から取り出した枝豆を入れる。
 山芋パックを入れる。
@@ -287,23 +279,18 @@ GCM だと 50基
 
 
 ### 混ぜて寝かせ
-<img alt="picture 22" src="images/160e6af083f6e1d5d742e781f7fc5fcb5192a9c2356a76e21543c25004d635ad.jpg" width="200" />  
 
+<img alt="picture 30" src="images/1f0e33f80371b9b8d9a983d4254fca2550da423fde246137bf75939bbf065ba7.jpg" width="400" />  
 
-<img alt="picture 23" src="images/542519f5e6000a49a892a8c71880c95412bd1978db238f071961a42701db75bf.jpg" width="200" />  
 
 これらを混ぜておく。
 冷蔵庫で30分ほど寝かせて、味をなじませる。
 
 
 ### 加熱して完成
-<img alt="picture 24" src="images/4e0c99af5638e8a936958fc48d57dd4414077530e0314f3e73887e77455f273f.jpg" width="200" />  
 
+<img alt="picture 31" src="images/89e3e176370284f45f2f0e0f3dc1580b3d0899f44b0df997b81f024583d65ef6.jpg" width="400" />  
 
-<img alt="picture 25" src="images/27339308b17b91b79a60a7d2b0dd85026aa2863bdd72977f66280d8a7c46eb97.jpg" width="200" />  
-
-
-<img alt="picture 26" src="images/0e9726287db9e8ab7c2d2cb8c63348781c2a932494d1b0261cd8f38f7d5ebe31.jpg" width="200" />  
 
 電子レンジで5分加熱したあと、3分おいて中まで熱を通す。
 更に電子レンジで3分加熱する。醤油は味を見て適宜使用。
