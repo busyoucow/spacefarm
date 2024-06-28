@@ -1,6 +1,6 @@
 {
     "markdown-image.base.codeType": "HTML",
     "markdown-image.base.imageWidth": 200,
-    "markdown-pdf.headerTemplate": "",
+    "markdown-pdf.headerTemplate": ".",
     "markdown-pdf.format": "A5"
 }
