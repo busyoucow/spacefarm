@@ -335,9 +335,11 @@ GCM だと 50基
 
 ## カロリーとコスト考察
 カロリー値偏重はよくないが、やはり宇宙空間という隔離空間ではコストとカロリーは切り離せない。ここで考察する。
-<img alt="picture 36" src="images/2e858dd52fd5a828ef1f312baa2bc04f79b5534f96294a8a0d3bf44e47303ec9.png" width="200" />  
+地上で用意した場合
+<img alt="picture 36" src="images/2e858dd52fd5a828ef1f312baa2bc04f79b5534f96294a8a0d3bf44e47303ec9.png" width="400" />  
 
-<img alt="picture 37" src="images/6e6b23cfe4924c71927cb9ef45ae6c53459d37d7c1033ec9888a775120b7c0c3.png" width="200" />  
+宇宙で用意した場合
+<img alt="picture 37" src="images/6e6b23cfe4924c71927cb9ef45ae6c53459d37d7c1033ec9888a775120b7c0c3.png" width="400" />  
 
 こうして考えてみると、やはり炭水化物由来のカロリーが不足気味でコストも高い（育成期間がかかるため）のでその部分は解決が必要であろう。
 
