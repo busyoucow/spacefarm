@@ -1,6 +1,6 @@
 
-<img alt="picture 33" src="images/395a76bdb0dc0a3e07d611c608eb7e3712862098ba867495b98a411de8803bf4.png" width="800" />  
 
+<img alt="picture 38" src="images/832062d144b44e4f6668913378ba87373eb32aeed9dda39c3ac581c3c91e1daa.png" width="800" />  
 
 
 <div class="page"/>
@@ -394,6 +394,6 @@ GCM だと 50基
 |SpaceFarmProject|||Ver.20240629|
 |:---|:---|:---|:---|
 |2024年6月22日 初版||||
-|2024年6月28日 追補２版||||
+|2024年7月27日 追補３版||||
 |著者 @busyoucow (Secret Societies OpenForce)||||
 |||||
