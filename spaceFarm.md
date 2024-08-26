@@ -49,6 +49,7 @@ githubで最新のものが読めます。urlをブラウザに入力してア�
     - [問題点](#問題点)
     - [解決策](#解決策)
     - [良質なタンパク質を得るために](#良質なタンパク質を得るために)
+  - [実際に調理してみた](#実際に調理してみた)
   - [HM（ハイパーマテリアル）について](#hmハイパーマテリアルについて)
 - [あとがき](#あとがき)
 
@@ -392,6 +393,51 @@ GCM だと 50基
 宇宙空間ではキノコ類も含め菌類の活用が有望であると考える。キノコ活用レシピは拙稿SpaceFarmProjectを参照されたい。
 菌類は一度死滅させてしまうと再生が困難である為定期的に菌種確保する必要があると考える
 宇宙空間での生活は過酷になると考えられるため数少ない楽しみとして食の充実を考えたい。
+## 実際に調理してみた
+<img alt="picture 39" src="images/fce49dab99de7fad20007da241911047fcf6a958d08259a2401594bf23161432.jpg" width="200" />  
+
+鍋に油をひいて熱する
+
+<img alt="picture 40" src="images/885be6b3f5c24414f8ad6bb94f3ae73bb841b4620d2dadd6d6ae38aba3a057b4.jpg" width="200" />  
+
+卵を割り入れてとく
+
+<img alt="picture 41" src="images/800bddd0e67a4ff9e93323927488a7d35773958531227cc2c5fec6a808a1b916.jpg" width="200" />  
+
+スクランブルエッグ状態になったら
+
+<img alt="picture 42" src="images/7894bc4c187a7568d5e4ada18882a4a4be16d2795de90d60673e0ff24f0d7a2b.jpg" width="200" />  
+
+ソーセージを入れて更に炒める
+
+<img alt="picture 43" src="images/c977b6f42facda7fa513dcff5c2b71b106580f6e86acd0ba1cbe4f07751d0c56.jpg" width="200" />  
+
+軽く火が通ったら水を200cc入れて
+
+<img alt="picture 44" src="images/2e3996e5f646308b634875d286d47267ccebd568a7b7df09daec38c1ad12ba49.jpg" width="200" />  
+
+件のエビオスビール酵母顆粒を
+
+<img alt="picture 45" src="images/307c234f7d79ce4ac63958c79da724f7632b47dfdd3556d9ea3333dde2da2709.jpg" width="200" />  
+
+大さじ1入れる
+
+<img alt="picture 46" src="images/2f30a1635f1d4388bc7dcdc4ae97aaeaff165181399a1e02dab6860ad657fb93.jpg" width="200" />  
+
+フライドオニオンを大さじ2程度入れる
+
+<img alt="picture 47" src="images/5d25bf562abeb0be46d5ab3cf0034eb18a6a8d4c443369c81d0bfc31cc92624a.jpg" width="200" />  
+
+塩こうじを大さじ1入れる
+
+<img alt="picture 48" src="images/10763a7ad568b089b1ab0ab95c7e30d5cf169a24cedb1496b75dc748b13b1f6f.jpg" width="200" />  
+
+そのまま煮込んで塩で味を調える
+
+<img alt="picture 49" src="images/ded0c95c6e1c1781f85fa01c04eb695174aa53fea414c10de0dfc047cba482a4.jpg" width="200" />  
+
+最後に器に盛りつけてソーセージ付属のマスタードをかける
+
 
 ## HM（ハイパーマテリアル）について
 HMは炭水化物と糖類を楽しみながら摂取する食材として有望である。
