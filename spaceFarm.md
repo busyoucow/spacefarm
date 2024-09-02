@@ -478,11 +478,28 @@ HMは炭水化物と糖類を楽しみながら摂取する食材として有望
 
 # 作物に合わせた植物プラントの再設計
 ## 総統との計算千本ノック
+
+
 ## 第一案　はじめからちゃんと考えていたのです
+<img alt="picture 50" src="images/dfab5c8dc460580780694db0974934ce8d5c06f1c6c8ae84283ab8496ae37a03.png" width="200" />  
+
+
 ## 第二案　物理法則の壁
+<img alt="picture 51" src="images/6ec4517537d205b72a7f03232d57112864d427aca2222629063ff07d6458a663.png" width="200" />  
+
+
 ## 第三案　シリンダーと内圧差
+<img alt="picture 52" src="images/a19fea2564261d770b74896adc5239a56e69f19edff5e54afda1085f476c161b.png" width="200" />  
+
+
 ## 第四案　内圧との果てしない闘い
+<img alt="picture 53" src="images/d3eaf44432fe210d11924415cada02a402571c14433c529fe0bf355d3d77d9db.png" width="200" />  
+
+
 ## 第五案　総統のネタバラシ
+<img alt="picture 54" src="images/5586b691aabfbf758b349ba148e88433d94f0035159b1f7521d9f1c826d08b6e.png" width="200" />  
+
+
 ## 闘い終わって…
 
 
