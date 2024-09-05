@@ -6,9 +6,11 @@
 <div class="page"/>
 
 # まえがき
-githubで最新のものが読めます。urlをブラウザに入力してアクセスしてください。(https://github.com/busyoucow/spacefarm)
+githubで最新のものが読める。urlをブラウザに入力してアクセスして欲しい。(https://github.com/busyoucow/spacefarm)
 
-ライセンスはMITです。
+ライセンスはMITとなる。
+
+この原稿を執筆する際に、秋葉原ロボット部に関わりの深い秘密結社オープンフォースの総統(@nanbuwks)より指導監修を受けている事に感謝したい。
 
 # 目次
 
@@ -503,7 +505,7 @@ HMは炭水化物と糖類を楽しみながら摂取する食材として有望
 | | | | | | | | | | | | |
 |合計| | | | | | | | | |2686|175.85|
 
-※宇宙航空研究開発機構特別資料　JAXA-SP-19-001 30p 表3.5より引用
+※宇宙航空研究開発機構特別資料　JAXA-SP-19-001 30p 表3.5より菌類以外の一部数字を引用
 
 
 ## 欲しい作物　イコール　生産する作物ではない
@@ -674,91 +676,128 @@ HMは炭水化物と糖類を楽しみながら摂取する食材として有望
 以上を踏まえて今回はビール酵母を使用した。パン酵母を使用したレシピはHMにて試作する。
 
 ## 実践！レシピ公開
+
+<img alt="picture 61" src="images/11a3455bab4a819e1a52bc5d41903f515a355379cf5c8e3ac11af45e1caf938b.jpg" width="200" />  
+
+
+
 |材料 |数量|重量g|カロリーkcal|タンパク質g|
 |:----|:----|:----|:----|:----|
-|ブナシメジ|1株|300|25|0.2|
-|エダマメ（むき）|0.3袋|60|25|0.2|
-|パクチー|1束|30|25|0.2|
-|ダイズミート|0.2袋|30|25|0.2|
-|塩こうじ|大さじ1|300|25|0.2|
-|食塩|適量|0.5|25|0.2|
-|冷凍フライドポテト|1袋|110|133|0.2|
-|エビオスビール酵母|大さじ1|3|133|0.2|
-|醤油|大さじ1|3|133|0.2|
+|ブナシメジ|1株|330|85|8.9|
+|エダマメ（むき）|0.3袋|60|78|6.3|
+|パクチー|1束|39|7|0.5|
+|ダイズミート|0.2袋|30|116|13.2|
+|塩こうじ|大さじ1|15|29|0.4|
+|食塩|適量|2|0|0|
+|冷凍フライドポテト|1袋|110|133|2.0|
+|エビオスビール酵母|大さじ1|15|48|8.2|
+|醤油|大さじ1|15|12|1.6|
+|合計||616|508|41.1|
+
+※ブナシメジ、パクチーは日本食品標準成分表（八訂）　増補2023年より。それ以外は商品パッケージ記載成分より。
+
 
 醤油が宇宙で生産可能かについては後記する。
 
 ## 挑戦した画像がこちら
 
-<img alt="picture 55" src="images/83c1970b4bc6db12e337684cbddb8fa53ca5affb97f5b347fbf023160df139cd.jpg" width="200" />  
-
-<img alt="picture 56" src="images/e16ec2ae919c9575c88084cf43c1f5effe11b73a33606884a1bc1440cf0683d2.jpg" width="200" />  
 
 <img alt="picture 57" src="images/998fea79cb8b7a35e5510af5caf2313f6bf1d9e4aa1f7a71f55cf937ccd13821.jpg" width="200" />  
 
+ダイズミートを30g、これは乾燥しているため…
+
 <img alt="picture 58" src="images/00cd92f173e93a4c83e4eae8d5e6668d89263b7656a70409f36a100d2a2f45bd.jpg" width="200" />  
 
-<img alt="picture 59" src="images/6693f27995954415e6a69019c970d73e882caf752a7efed0542d55378cfd8ccd.jpg" width="200" />  
-
-<img alt="picture 60" src="images/b904fcdba5ee450055c77ce9f785769130c53069e14ee340abf54b7d9934c3cf.jpg" width="200" />  
-
-<img alt="picture 61" src="images/11a3455bab4a819e1a52bc5d41903f515a355379cf5c8e3ac11af45e1caf938b.jpg" width="200" />  
-
-<img alt="picture 62" src="images/d4e239eea8447eb11e46f91fe79dd4d959de7c49fcae8a01b834aad66cbdc394.jpg" width="200" />  
-
-<img alt="picture 63" src="images/bf81f37d838fe13cfaf972a7770ce1a515ff80b638ba3f6891099ff995ca2db5.jpg" width="200" />  
-
-<img alt="picture 64" src="images/c7da8fdea64aee2d939d502e6cf3ae91bb2dfb7d425a371b0b2b67d0448ebc2d.jpg" width="200" />  
-
-<img alt="picture 65" src="images/ee343898e486e7c3a2ff6b0601809fef91e225e19c871e4d0e69e3939c37ec5b.jpg" width="200" />  
+お湯を200ml入れて5分待ち
 
 <img alt="picture 66" src="images/0a8d24a2583978dad291130d963489d7547ea75f907fad29cad3c48ebab560e8.jpg" width="200" />  
 
+ダイズミートを食べられる硬さまで戻す。
+
 <img alt="picture 67" src="images/fcb7a0002142109fd47a6f39a53a88fea5759f7f89ccf80e05dad99c10a556ea.jpg" width="200" />  
+
+ビール酵母を大さじ1
 
 <img alt="picture 68" src="images/7a52ee798dde7628c69d9400d6bdc4b2d9a163af140c1f9af1e0ece7779f5a6a.jpg" width="200" />  
 
-<img alt="picture 69" src="images/95fd3ea6cd38352d8a10b0d06327f22cc89d875f05aaf8486b0e52080bbb6266.jpg" width="200" />  
+塩こうじを大さじ1入れて混ぜる。
 
 <img alt="picture 70" src="images/42ce9e44d0f875edf87e4259b01c88bff52396bfe0e6ad3f210d1010e854dad8.jpg" width="200" />  
 
+ブナシメジは石突を取り、ばらして洗って水を切る。
+
 <img alt="picture 71" src="images/eb0ebbbe9dd74e9f9e70024e16287d566959f2b92ad8b7515583068ac097b9de.jpg" width="200" />  
+
+よく混ぜておく。
 
 <img alt="picture 72" src="images/dbad5eb04848d9d79c2ae5c7886c8ed94c65455d8b0a5426a525c34c4cb0dbe9.jpg" width="200" />  
 
+冷凍エダマメはそのままで使うが、火が通るよう注意しないといけない。
+
 <img alt="picture 73" src="images/25426c35d8d4a094348b4a3a3059a8e1bb0749b24a3c538be03df5daa22cc277.jpg" width="200" />  
+
+食塩を２～３振り。
 
 <img alt="picture 74" src="images/b1d7020f878aa67a09925378b66bc4fa51218cbf638d84cd74f236efe96b8a98.jpg" width="200" />  
 
-<img alt="picture 75" src="images/e952f648bdab580624e84268aa7af112e72923ae013c13690482c123e0c758fd.jpg" width="200" />  
+よく混ぜておく。
 
 <img alt="picture 76" src="images/bacd3b4e02ff18b53efe4212ea0c672d6b5eaef19b861e117d3697f20f8d1105.jpg" width="200" />  
 
+パクチー一束を根元を切って洗う。
+
 <img alt="picture 77" src="images/bb856c76aa2e5581e2927401592149f28408f9775767c4fe2dd2b1bcb7e3d2f0.jpg" width="200" />  
 
-<img alt="picture 78" src="images/316e45f62232b5640d49ecb91f3687a40dc27d4d47e21fe6a5da797a4d700fd8.jpg" width="200" />  
+入れて混ぜ、蓋を閉める。密封してしまわないように注意。
+
+<img alt="picture 75" src="images/e952f648bdab580624e84268aa7af112e72923ae013c13690482c123e0c758fd.jpg" width="200" />  
+
+ジャガイモは今回別添とした。袋のまま調理できるフライドポテトが簡単に買えるのはありがたい。
 
 <img alt="picture 79" src="images/b5bc2a39c4adb262be21ce94bb8cbbf905b76c64ebf5c992dd89942ea7babcd3.jpg" width="200" />  
 
+レンジ対応袋のため、注意書きに沿ってそのまま電子レンジで加熱する。
+
 <img alt="picture 80" src="images/ba5f35a68ba24f1c2361da6ed913aae81fb6a2bd03edcee2e5f7376e4c5090aa.jpg" width="200" />  
+
+こちらも電子レンジで加熱していく。まずは600wで3分。
 
 <img alt="picture 81" src="images/cc5e052b7074338e186565ffcba4ffa781deb62e1db1a5027fc2f9d339e7e14d.jpg" width="200" />  
 
+ここで禁断の？醤油が登場。日本人の食には欠かせない。
+
 <img alt="picture 82" src="images/84384abef82b0d8a62040bcc233e04974305da28928f601b10b7fb2c4126c812.jpg" width="200" />  
+
+大さじ１は結構濃い感じがするが、それほど塩辛くはない。
 
 <img alt="picture 83" src="images/3396625186c8b625f9a5b1bf5af10276f823dbe91767d80a8bba3da60bc1b674.jpg" width="200" />  
 
+よく混ぜていく。蓋をして電子レンジ600wで2分加熱する。
+
 <img alt="picture 84" src="images/f0ac6d76d59c2c8d51f57d3ec6c7eff3abdcd19d7e8a3d6e82aa0ec5f2b5a62e.jpg" width="200" />  
+
+これで完成。容器が熱いので気を付けて運び…
 
 <img alt="picture 85" src="images/075128101e6593a5a0d1c1cc107e6d4ccf6848dbf0d044c475a58bf10f034d24.jpg" width="200" />  
 
+実食！前回同様歯ごたえはある。
+
 <img alt="picture 86" src="images/869a8857cca4ffd31173d03fabe19d537744a35428593c2fc3b648154c42aee3.jpg" width="200" />  
 
-
+味に変化をつけたくて、とうとう味噌を使ってしまった…
+フライドポテトを汁に浸けてもおいしい。
 
 ## 実食…
-食べてみて感じたのが、ダイズミートは代替肉とは程遠いものであり崩した油揚げのようなものだと感じた。唐揚げ等のレシピもあるようだが、搾油生成物活用とはいえ調理上創意工夫が必要ではないかと思う。
-食感そのものはブナシメジとエダマメにダイズミートとパクチーが追加され
+食べてみて感じたのだが、ダイズミートは代替肉とは程遠いものであり崩した油揚げのようである。唐揚げ等のレシピもあるが、搾油生成物活用とはいえ調理上創意工夫が必要ではないかと思う。
+料理としての食感そのものはブナシメジとエダマメにダイズミートとパクチーが追加されたため変化を楽しめた。
+ダイズミートの戻し汁もそのまま使用したためスープのような状態になった。
+
+また栄養成分的には前項［宇宙で生産する作物］項にて算出したカロリー及びタンパク質を一食当たりで下回った。大豆より産生される大豆油を25g、ダイズミートを30g、エダマメを40g
+加えれば充当できるだろう。
+
+あと味付けに醤油を使い更に味噌を加えてしまった。やはり調味料が塩と塩こうじのみでは筆者のような日本人には厳しい。
+
+地上から軽量なものは持ち込めるという前提で麹菌や納豆菌、スパイス類を持ち込み栽培できるものは栽培して納豆味噌醤油などを発酵生成という流れにする必要があると感じる。
 
 
 # あとがき
@@ -774,7 +813,7 @@ HMは炭水化物と糖類を楽しみながら摂取する食材として有望
 
 ## 注意とこれから
 
-既にロボット部総統(@nanbuwks)より各種指摘を受けているが、現在までの予想図として寄稿した。
+既に秘密結社オープンフォース総統(@nanbuwks)より各種指摘を受けているが、現在までの予想図として寄稿した。
 
 宇宙関連は様々な技術と知見の総合格闘技である。そこへ一介の素人が妄想した「未来想像図」として御笑覧されたい。
 
