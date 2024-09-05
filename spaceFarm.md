@@ -1,6 +1,6 @@
 
 
-<img alt="picture 87" src="images/06f7d1a3386d41e4fd18711becba5e0074265c8f3ad6d5a771188a1aaab3a8b7.png" width="200" />  
+<img alt="picture 89" src="images/f61e890c940a0273276dbebc23caf15fe2678d480b0b48bcb1b28203135d4ce3.png" width="200" />  
 
 
 <div class="page"/>
@@ -845,9 +845,9 @@ HMは炭水化物と糖類を楽しみながら摂取する食材として有望
 <br>
 <br>
 
-|SpaceFarmProject|||Ver.20240727|
+|SpaceFarmProject|||Ver.20240907|
 |:---|:---|:---|:---|
 |2024年6月22日 初版||||
-|2024年7月27日 追補３版||||
+|2024年9月 7日 NT東京版||||
 |著者 @busyoucow (Secret Societies OpenForce)||||
 |||||
