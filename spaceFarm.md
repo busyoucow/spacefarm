@@ -1,6 +1,6 @@
 
 
-<img alt="picture 38" src="images/832062d144b44e4f6668913378ba87373eb32aeed9dda39c3ac581c3c91e1daa.png" width="800" />  
+<img alt="picture 87" src="images/06f7d1a3386d41e4fd18711becba5e0074265c8f3ad6d5a771188a1aaab3a8b7.png" width="200" />  
 
 
 <div class="page"/>
