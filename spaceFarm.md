@@ -79,9 +79,16 @@ githubで最新のものが読める。urlをブラウザに入力してアク�
   - [栄養補給のために酵母を使ってみた](#栄養補給のために酵母を使ってみた)
     - [ビール酵母は味覚に大きな影響を及ぼす](#ビール酵母は味覚に大きな影響を及ぼす)
     - [パン酵母を使用すると細胞壁が壊れていないため必要量増加](#パン酵母を使用すると細胞壁が壊れていないため必要量増加)
-  - [実践！レシピ公開](#実践レシピ公開)
-  - [挑戦した画像がこちら](#挑戦した画像がこちら)
-  - [実食…](#実食)
+  - [レシピ１　主食になりうる食事](#レシピ１主食になりうる食事)
+    - [実践！レシピ公開](#実践レシピ公開)
+    - [材料はこちら。](#材料はこちら)
+    - [挑戦した画像がこちら](#挑戦した画像がこちら)
+    - [実食…](#実食)
+  - [レシピ２　甘いものも欲しいですよね](#レシピ２甘いものも欲しいですよね)
+    - [実践！レシピ公開](#実践レシピ公開-1)
+    - [材料はこちら](#材料はこちら-1)
+    - [挑戦してみた画像はこちら。](#挑戦してみた画像はこちら)
+    - [実食…](#実食-1)
 - [あとがき](#あとがき)
   - [変更履歴](#変更履歴)
   - [注意とこれから](#注意とこれから)
@@ -797,19 +804,20 @@ LED電球で60wタイプのもので4m離した場合、8ルクス
 ### パン酵母を使用すると細胞壁が壊れていないため必要量増加
 元々栄養摂取を目的としない商品の為必要量が増える上に、ビール酵母並みではないとしても味覚への影響がある。
 
+## レシピ１　主食になりうる食事
 
 以上を踏まえて今回はビール酵母を使用した。パン酵母を使用したレシピは今後HMにて試作する予定である。
 
-## 実践！レシピ公開
-
 <img alt="picture 92" src="images/0d1f353923d33d7ac027062804f189c0c2796838ce08762bc1e55ce16a87ec00.png" width="400" />  
+
+### 実践！レシピ公開
 
 
 <img alt="picture 85" src="images/075128101e6593a5a0d1c1cc107e6d4ccf6848dbf0d044c475a58bf10f034d24.jpg" width="400" />  
 
 
 
-材料はこちら。
+### 材料はこちら。
 
 <img alt="picture 61" src="images/11a3455bab4a819e1a52bc5d41903f515a355379cf5c8e3ac11af45e1caf938b.jpg" width="200" />  
 
@@ -833,7 +841,7 @@ LED電球で60wタイプのもので4m離した場合、8ルクス
 
 醤油が宇宙で生産可能かについては後記する。
 
-## 挑戦した画像がこちら
+### 挑戦した画像がこちら
 
 
 <img alt="picture 57" src="images/998fea79cb8b7a35e5510af5caf2313f6bf1d9e4aa1f7a71f55cf937ccd13821.jpg" width="200" />  
@@ -921,7 +929,7 @@ LED電球で60wタイプのもので4m離した場合、8ルクス
 味に変化をつけたくて、とうとう味噌を使ってしまった…
 フライドポテトを汁に浸けてもおいしい。
 
-## 実食…
+### 実食…
 食べてみて感じたのだが、ダイズミートは代替肉とは程遠いものであり崩した油揚げのようである。唐揚げ等のレシピもあるが、搾油生成物活用とはいえ調理上創意工夫が必要ではないかと思う。
 料理としての食感そのものはブナシメジとエダマメにダイズミートとパクチーが追加されたため変化を楽しめた。
 ダイズミートの戻し汁もそのまま使用したためスープのような状態になった。
@@ -934,6 +942,64 @@ LED電球で60wタイプのもので4m離した場合、8ルクス
 あと味付けに醤油を使い更に味噌を加えてしまった。やはり調味料が塩と塩こうじのみでは筆者のような日本人には厳しい。
 
 地上から軽量なものは持ち込めるという前提で麹菌や納豆菌、スパイス類を持ち込み栽培できるものは栽培して納豆味噌醤油などを発酵生成という流れにする必要があると感じる。次回以降に反映させたい。
+
+## レシピ２　甘いものも欲しいですよね
+
+ビール酵母は苦みが強めである。よってパン酵母も試してみたい。
+
+せっかくパン酵母を使うのであれば、スイーツを作ってみたいと思う。前項［宇宙空間で作る作物］により宇宙空間で小麦の使用は今回想定していないため、大豆粉と馬鈴薯（ジャガイモ）でんぷんを使用したHM（ホットケーキミックス）を使用する。
+
+### 実践！レシピ公開
+
+<img alt="picture 93" src="images/08069a0cdd476d48e56e57c2fc37d07db6f7a59cd994bad1474b2aca8afa3d75.jpg" width="200" />  
+
+
+### 材料はこちら
+
+<img alt="picture 94" src="images/8b968119a2cb84bbf92d3bb2cdde5c0068faad04fa2df4e22a2dd5807f39c9f3.jpg" width="200" />  
+
+### 挑戦してみた画像はこちら。
+
+<img alt="picture 97" src="images/8e081a315b1068918ea7f8a9554e6f815eb25258bc7c56b9c247d92725ba48f6.jpg" width="200" />  
+
+<img alt="picture 98" src="images/f8fa8ab8bb01ebde8bede069279555c4c691e03760c7bc137b15ba1cb9710d8e.jpg" width="200" />  
+
+<img alt="picture 99" src="images/1471e0a8c0318107924145e2ab714069384b8f4ad9246c936411f0fb1f1d9288.jpg" width="200" />  
+
+<img alt="picture 100" src="images/bc2b77b4fbf01c7f34c9cb8dd5adab167f23a9e703c9949dfa58828c9ae259ad.jpg" width="200" />  
+
+<img alt="picture 101" src="images/d719ab8d763c850c8883241938d96fa8d5aaec8839a2d0f00ab0576f64ed6591.jpg" width="200" />  
+
+<img alt="picture 102" src="images/42773f6e90cc20092b759ab6cc7223c72eb725a37be438d01fa0c0f3f37ae509.jpg" width="200" />  
+
+<img alt="picture 103" src="images/5683c6bf8dd78462399e24eee016038003ae5d2eaec76d08b867cf4d89c0f4f0.jpg" width="200" />  
+
+<img alt="picture 104" src="images/b1ff7a1f119cf326cdafc070203fac01e9fbee3c3ffc10311fef30f79fb03ed0.jpg" width="200" />  
+
+<img alt="picture 105" src="images/5d6d4aaf5b1372ecacd93217f03b75699884894790ed964b5e1e022811ba0b38.jpg" width="200" />  
+
+<img alt="picture 106" src="images/a2c5546f056b51640827001932353eb6422ac8a4b440da7545bc58d419a00817.jpg" width="200" />  
+
+<img alt="picture 107" src="images/fd342c5e1c629240a818166d3583906ff1b4856c033121341a5b2280e14c9665.jpg" width="200" />  
+
+<img alt="picture 108" src="images/6513bface60ae9a306015ab7b0fefe6cbb23d0aa6fe53a55b5f6480d125baec3.jpg" width="200" />  
+
+<img alt="picture 109" src="images/91e2037defdb76c092a27dd54c3b055dd31b6db49c68eb9f2de94ac452c9bd35.jpg" width="200" />  
+
+<img alt="picture 110" src="images/e8606faa25df362f64a88cb2e009462bba21a5cf25fc837ccda4026743e5dee4.jpg" width="200" />  
+
+<img alt="picture 111" src="images/ed5056430a5ddfb89022856a50d67e9a3d2bda3ab53ac35b5fc9315fa3320dcf.jpg" width="200" />  
+
+<img alt="picture 112" src="images/b1a59205037257f4383067f8dbcec3c6c624175cc58936db8cb9af119562bbb9.jpg" width="200" />  
+
+<img alt="picture 113" src="images/a2924128c626710ec52b11a8695bcb23dc4bf1f308fa0480059ebc77375fd76b.jpg" width="200" />  
+
+<img alt="picture 114" src="images/b611856a01a9c84b0f19e13b482c5be9d68b20ec8e0f9238ae74ba91339f097a.jpg" width="200" />  
+
+<img alt="picture 93" src="images/08069a0cdd476d48e56e57c2fc37d07db6f7a59cd994bad1474b2aca8afa3d75.jpg" width="200" />  
+
+
+### 実食…
 
 
 <div class="page"/>
