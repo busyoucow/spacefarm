@@ -951,56 +951,113 @@ LED電球で60wタイプのもので4m離した場合、8ルクス
 
 ### 実践！レシピ公開
 
-<img alt="picture 93" src="images/08069a0cdd476d48e56e57c2fc37d07db6f7a59cd994bad1474b2aca8afa3d75.jpg" width="200" />  
+<img alt="picture 93" src="images/08069a0cdd476d48e56e57c2fc37d07db6f7a59cd994bad1474b2aca8afa3d75.jpg" width="400" />  
+
+メインとなるHM（ホットケーキミックス）はマルコメのダイズラボ　大豆粉でおいしいホットケーキミックスを使用した。
+
 
 
 ### 材料はこちら
 
 <img alt="picture 94" src="images/8b968119a2cb84bbf92d3bb2cdde5c0068faad04fa2df4e22a2dd5807f39c9f3.jpg" width="200" />  
 
+|材料 |数量|重量g|カロリーkcal|タンパク質g|
+|:----|:----|:----|:----|:----|
+|HM（大豆粉ベース）|1袋|125|495|24.2|
+|イチゴジャム|1瓶|18|42|0.1|
+|豆乳|1パック|180|95|6.4|
+|パン酵母|1袋|18|43|8.1|
+|合計||616|508|41.1|
+
+※商品パッケージ記載成分より。
+
+カップケーキとするため紙コップ6個を用意する。
+
 ### 挑戦してみた画像はこちら。
 
 <img alt="picture 97" src="images/8e081a315b1068918ea7f8a9554e6f815eb25258bc7c56b9c247d92725ba48f6.jpg" width="200" />  
 
+HMを紙コップに20gづつ入れる。
+
 <img alt="picture 98" src="images/f8fa8ab8bb01ebde8bede069279555c4c691e03760c7bc137b15ba1cb9710d8e.jpg" width="200" />  
+
+それを6個作る。余ったら各々のコップに分散してよい。
 
 <img alt="picture 99" src="images/1471e0a8c0318107924145e2ab714069384b8f4ad9246c936411f0fb1f1d9288.jpg" width="200" />  
 
+パン酵母を3gづつ入れる。
+
 <img alt="picture 100" src="images/bc2b77b4fbf01c7f34c9cb8dd5adab167f23a9e703c9949dfa58828c9ae259ad.jpg" width="200" />  
+
+6個すべてに入れる。余っても決して追加してはいけない。
 
 <img alt="picture 101" src="images/d719ab8d763c850c8883241938d96fa8d5aaec8839a2d0f00ab0576f64ed6591.jpg" width="200" />  
 
+豆乳を30gづつ入れていく。
+
 <img alt="picture 102" src="images/42773f6e90cc20092b759ab6cc7223c72eb725a37be438d01fa0c0f3f37ae509.jpg" width="200" />  
+
+正確には30mlだがほぼ30gとみてよいだろう。
 
 <img alt="picture 103" src="images/5683c6bf8dd78462399e24eee016038003ae5d2eaec76d08b867cf4d89c0f4f0.jpg" width="200" />  
 
+6個作る。
+
 <img alt="picture 104" src="images/b1ff7a1f119cf326cdafc070203fac01e9fbee3c3ffc10311fef30f79fb03ed0.jpg" width="200" />  
+
+だまにならないよう手早く混ぜる。粉の部分が無いように。
 
 <img alt="picture 105" src="images/5d6d4aaf5b1372ecacd93217f03b75699884894790ed964b5e1e022811ba0b38.jpg" width="200" />  
 
+良くかき混ぜたらスプーンについた生地も入れておく。
+
 <img alt="picture 106" src="images/a2c5546f056b51640827001932353eb6422ac8a4b440da7545bc58d419a00817.jpg" width="200" />  
+
+6個作る。
 
 <img alt="picture 107" src="images/fd342c5e1c629240a818166d3583906ff1b4856c033121341a5b2280e14c9665.jpg" width="200" />  
 
+室温で3時間寝かせる。パン酵母が活性化し気泡ができ少し膨らむ。
+
 <img alt="picture 108" src="images/6513bface60ae9a306015ab7b0fefe6cbb23d0aa6fe53a55b5f6480d125baec3.jpg" width="200" />  
+
+上にイチゴジャムを乗せる。
 
 <img alt="picture 109" src="images/91e2037defdb76c092a27dd54c3b055dd31b6db49c68eb9f2de94ac452c9bd35.jpg" width="200" />  
 
+小さじ1づつ乗せていく。
+
 <img alt="picture 110" src="images/e8606faa25df362f64a88cb2e009462bba21a5cf25fc837ccda4026743e5dee4.jpg" width="200" />  
+
+6個作る。
 
 <img alt="picture 111" src="images/ed5056430a5ddfb89022856a50d67e9a3d2bda3ab53ac35b5fc9315fa3320dcf.jpg" width="200" />  
 
+電子レンジで600w 5分加熱する。粉っぽいようなら追加で少しづつ加熱する。
+
 <img alt="picture 112" src="images/b1a59205037257f4383067f8dbcec3c6c624175cc58936db8cb9af119562bbb9.jpg" width="200" />  
+
+中まで熱が通っているようだ。
 
 <img alt="picture 113" src="images/a2924128c626710ec52b11a8695bcb23dc4bf1f308fa0480059ebc77375fd76b.jpg" width="200" />  
 
+流石にイチゴジャムだけでは甘さが足りなかったので、メープルシロップを少々垂らす。
+
 <img alt="picture 114" src="images/b611856a01a9c84b0f19e13b482c5be9d68b20ec8e0f9238ae74ba91339f097a.jpg" width="200" />  
+
+パン酵母の苦味もいい感じに中和される。
 
 <img alt="picture 93" src="images/08069a0cdd476d48e56e57c2fc37d07db6f7a59cd994bad1474b2aca8afa3d75.jpg" width="200" />  
 
+飲み物はハーブティーが合う。
 
 ### 実食…
 
+基本的に電子レンジで焼いたHMなのでフワフワ感はないのだが、パン酵母を栄養補給とはいえ入れすぎて味に影響（苦味）が出てしまった。
+
+その為イチゴジャムでは中和が足らずメープルシロップに頼ってしまう。
+
+イチゴジャムを増やしても良かったのだが、他に宇宙空間で栽培できるものを使って解決できるよう今後も考察を続けたい。
 
 <div class="page"/>
 
