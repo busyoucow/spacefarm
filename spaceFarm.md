@@ -1,6 +1,5 @@
 
-
-<img alt="picture 89" src="images/f61e890c940a0273276dbebc23caf15fe2678d480b0b48bcb1b28203135d4ce3.png"  />  
+<img alt="picture 117" src="images/c1ab307fa240253cd16099cb0049e2f640797757929bec18a0e061e82322ad9c.png"  />  
 
 
 <div class="page"/>
@@ -1127,6 +1126,6 @@ HMを紙コップに20gづつ入れる。
 |SpaceFarmProject|||Ver.20240907|
 |:---|:---|:---|:---|
 |2024年6月22日 初版||||
-|2024年9月 7日 NT東京版||||
+|2024年9月14日 NT富山版||||
 |著者 @busyoucow (Secret Societies OpenForce)||||
 |||||
